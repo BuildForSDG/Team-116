@@ -1,19 +1,26 @@
 import React , { Component } from 'react';
-import Header from './header.js';
-import Action from './action.js';
-import Offers from './offers.js';
-// import Impact from './impact.js';
-// import Testimonies from './testimony.js';
-// import Partners from './partners.js';
-// import Footer from './footer.js'
+import './Assets/Style/style.css'
+import Header from './Components/header';
+import Action from './Components/action';
+import Offers from './Components/offers';
+import Impact from './Components/impact';
+import Testimonies from './Components/testimony';
+import Partners from './Components/partners';
+import Footer from './Components/footer'
 
 class App extends Component{
     render(){
         return(
             <div>
-                <Header/>
-                <Action/>
+                <div id = "main">
+                    <Header/>
+                    <Action/>
+                </div>
                 <Offers/>
+                <Impact/>
+                <Testimonies/>
+                <Partners/>
+                <Footer/>
             </div>
         )
     }
