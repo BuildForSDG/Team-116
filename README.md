@@ -47,18 +47,17 @@ This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bun
 ## Authors
 
 
-- Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Murphy Obange **Technical Team Lead**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Shehu Ibrahim Muhammad **Product Manager & ML/AI(Data Analyst**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Shehu Ibrahim Muhammad **Fontend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Shehu Ibrahim Muhammad **Backend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Shehu Ibrahim Muhammad **UI/UX Designer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Shehu Ibrahim Muhammad **UI/UX Desiner**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Shehu Ibrahim Muhammad **Frontend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Shehu Ibrahim Muhammad **Backend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
-- Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+1.  Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+2.  Murphy Obange **Technical Team Lead**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+3.  Shehu Ibrahim Muhammad.  **Product Manager & ML/AI(Data Analyst**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+4.  Shehu Ibrahim Muhammad **Fontend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+5.  Shehu Ibrahim Muhammad **Backend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+6.  Shehu Ibrahim Muhammad **UI/UX Designer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+6.  Shehu Ibrahim Muhammad **UI/UX Desiner**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+8.  Shehu Ibrahim Muhammad **Frontend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+9.  Shehu Ibrahim Muhammad **Backend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+10. Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+11. Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah) 
  
 
 List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should siffice. Ok to signify the role they play in the project, including the TTL and mentor
