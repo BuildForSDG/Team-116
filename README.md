@@ -46,8 +46,18 @@ This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bun
 
 ## Authors
 
-- Murphy Obange **Technical Team Lead**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
 
+- Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+- Murphy Obange **Technical Team Lead**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+- Shehu Ibrahim Muhammad **Product Manager & ML/AI(Data Analyst**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+- Shehu Ibrahim Muhammad **Fontend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+- Shehu Ibrahim Muhammad **Backend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+- Shehu Ibrahim Muhammad **UI/UX Designer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+- Shehu Ibrahim Muhammad **UI/UX Desiner**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+- Shehu Ibrahim Muhammad **Frontend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+- Shehu Ibrahim Muhammad **Backend Engineer**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+- Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+- Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
 - Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
  
 
