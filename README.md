@@ -46,6 +46,11 @@ This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bun
 
 ## Authors
 
+- Murphy Obange **Technical Team Lead**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+
+- Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
+ 
+
 List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should siffice. Ok to signify the role they play in the project, including the TTL and mentor
 
 ## Contributing
