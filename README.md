@@ -52,12 +52,12 @@ This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bun
 3.  Shehu Ibrahim Muhammad **Product Manager**  - [Github - @hikmah94](https://github.com/hikmah94), [ Twitter - @Shehu_Hikmah](https://twitter.com/Shehu_Hikmah)
 4.  Asaaju Nathaniel Olalekan **Frontend developer**  - [Github - @sbpythonista](https://github.com/sbpythonista), [ Twitter - @asaaju_nath](https://twitter.com/asaaju_nath)
 5.  Quadri Abdulmalik Timelehun **Frontend developer**  - [Github - @quadrizzz](https://github.com/quadrizzz), [ Twitter - @I_Write_I_Code](https://twitter.com/I_Write_I_Code)
-6.  Ayinde Samuel  **Frontend developer/ UI/UX Designer**  - [Github - @SamuelCody](https://github.com/SamuelCody), [ Twitter - @ayinde_sam] (https://twitter.com/ayinde_sam)
-7.  Osazee Jedidiah Osaghaosasere **Backend Dec/Data Scientist**  - [Github - @osazeejedi](https://github.com/osazeejedi), [ Twitter - @Osazee_JEDi](https://twitter.com/Osazee_JEDi)
+6.  Ayinde Samuel  **Frontend developer/ UI/UX Designer**  - [Github - @SamuelCody](https://github.com/SamuelCody), [ Twitter - @ayinde_sam](https://twitter.com/ayinde_sam)
+7.  Osazee Jedidiah Osaghaosasere **Backend Developer/Data Scientist**  - [Github - @osazeejedi](https://github.com/osazeejedi), [ Twitter - @Osazee_JEDi](https://twitter.com/Osazee_JEDi)
 8.  Great Emeka  **UI/UX Designer**  - [Github - @Great-Emeka](https://github.com/Great-Emeka), [ Twitter - @Great4Codes](https://twitter.com/Great4Codes)
 9.  Stephen Oluwafemi Odoji **MEAN Stack Developer**  - [Github - @stephenrabbi](https://github.com/stephenrabbi), [ Twitter - @Sunshine_Odoji](https://twitter.com/Sunshine_Odoji)
 
-List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should siffice. Ok to signify the role they play in the project, including the TTL and mentor
+List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should suffice. Ok to signify the role they play in the project, including the TTL and mentor
 
 ## Contributing
 If this project sounds interesting to you and you'd like to contribute, thank you!
