@@ -17,6 +17,8 @@ design patterns.
 
 ---
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/abdc8ca79c5b4bc3b1d474f210886cc8)](https://app.codacy.com/gh/BuildForSDG/Team-116?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-116&utm_campaign=Badge_Grade_Settings)
+
 This project was bootstrapped with [React Starter Kit for Firebase][rfs] by [Kriasoft][kriasoft].
 
 ### Tech Stack
